@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color:#c0c0c0 ;
+    margin-left: 150px;
+}
+
+p{
+    text-align: center;
+}

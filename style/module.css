@@ -1,0 +1,80 @@
+.a p {
+    padding: 33px 0;
+}
+.b p {
+    padding: 70px 0;
+}
+.c p, .d p {
+    padding: 55px 0;
+}
+.e p, .f p, .g p, .h p {
+    padding: 120px 0;
+}
+.i p {
+    padding: 30px 0;
+}
+section{
+    
+    max-width: 960px;
+    height: 700px;
+}
+section .a{
+    width: 960px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+section .b{
+    float: left;
+    width: 200px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+section .c{
+    float: left;
+    width: 380px;
+    height: 200px;
+    border: 1px solid black;
+   
+}
+section .d{
+    float: left;
+    width: 380px;
+    height: 200px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+section .e{
+    float: left;
+    width: 190px;
+    height: 250px;
+    border: 1px solid black;
+}
+section .f{
+    float: left;
+    width: 190px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+section .g{
+    float: left;
+    width: 190px;
+    height: 250px;
+    border: 1px solid black;
+}
+section .h{
+    float: left;
+    width: 190px;
+    height: 250px;
+    border: 1px solid black;
+}
+
+section .i{
+    float: left;
+    width: 760px;
+    height: 150px;
+    border: 1px solid black;
+}
