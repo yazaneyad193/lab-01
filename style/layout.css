@@ -3,6 +3,7 @@
     .a {
       height: 100px;
       line-height: 100px;
+      vertical-align: middle;
     }
   
     .b {
@@ -11,6 +12,7 @@
       /* display: relative; */
       line-height: 600px;
       float: left;
+      vertical-align: middle;
     }
   
     .c, .d {
@@ -19,6 +21,7 @@
       /* display: relative; */
       line-height: 200px;
       float:left;
+      vertical-align: middle;
     }
   
     .e {
@@ -27,16 +30,19 @@
       /* display: relative; */
       line-height: 250px;
       display: inline-block;
+      vertical-align: middle;
     }
   
     .f {
       float: left;
+      vertical-align: middle;
     }
   
     .i {
       height: 150px;
       /* display: relative; */
       line-height: 150px;
+      vertical-align: middle;
     } 
   
   }

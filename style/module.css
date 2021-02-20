@@ -1,5 +1,5 @@
 .a p {
-    padding: 33px 0;
+    padding: 0;
 }
 .b p {
     padding: 70px 0;
@@ -7,11 +7,17 @@
 .c p, .d p {
     padding: 55px 0;
 }
-.e p, .f p, .g p, .h p {
+.e p{
+    padding: 0;
+}
+ .f p, .g p, .h p {
     padding: 120px 0;
 }
 .i p {
     padding: 30px 0;
+}
+.i p , .c p , .d p ,.b p{
+    padding: 0;
 }
 section{
     
